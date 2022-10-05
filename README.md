@@ -1,2 +1,4 @@
 # Multivariate-time-series-forecasting
-Notebook and data set
+Vector Autoregressive Model, statsmodels implementation.
+<br>
+Data source: https://www.kaggle.com/datasets/swatikhedekar/python-project-on-weather-dataset
