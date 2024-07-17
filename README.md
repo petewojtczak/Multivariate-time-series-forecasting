@@ -9,5 +9,5 @@ VAR (Vector Autoregression) is a classic multivariate linear model that has been
 <br>**What is sktime?**<br>
 
 Sktime is an open-source Python library specifically designed for time series analysis and forecasting tasks. It provides a user-friendly interface similar to sklearn (scikit-learn) and integrates seamlessly with it. sktime is particularly useful for applying sklearn machine learning algorithms to time series forecasting tasks, including gridsearching them.
-<br>
+<br><br>
 Data source: https://www.kaggle.com/datasets/swatikhedekar/python-project-on-weather-dataset
